@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{RTM}
+L.~{Akoglu}, M.~{McGlohon}, and C.~{Faloutsos}.
+\newblock Rtm: Laws and a recursive generator for weighted time-evolving
+  graphs.
+\newblock In {\em 2008 Eighth IEEE International Conference on Data Mining},
+  pages 701--706, 2008.
+
+\bibitem{OddBall}
+Leman Akoglu, Mary McGlohon, and Christos Faloutsos.
+\newblock Oddball: Spotting anomalies in weighted graphs.
+\newblock pages 410--421, 07 2010.
+
+\bibitem{LOF}
+Markus Breunig, Hans-Peter Kriegel, Raymond Ng, and Joerg Sander.
+\newblock Lof: Identifying density-based local outliers.
+\newblock volume~29, pages 93--104, 06 2000.
+
+\end{thebibliography}
